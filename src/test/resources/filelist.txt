@@ -1,0 +1,16 @@
+textfiles_com\3gables.txt
+textfiles_com\3lpigs.txt
+textfiles_com\3sonnets.txt
+textfiles_com\3student.txt
+textfiles_com\4moons.txt
+textfiles_com\5orange.txt
+textfiles_com\6ablemen.txt
+textfiles_com\6napolen.txt
+textfiles_com\13chil.txt
+textfiles_com\14.txt
+textfiles_com\16.txt
+textfiles_com\17.txt
+textfiles_com\18.txt
+textfiles_com\19.txt
+textfiles_com\20.txt
+textfiles_com\100west.txt
